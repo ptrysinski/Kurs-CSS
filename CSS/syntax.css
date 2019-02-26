@@ -1,7 +1,16 @@
-span {
+body {
     color: red;
 }
 
-span {
+div {
     color: blue;
+}
+
+p {
+    color: green;
+}
+
+a {
+    color: yellow;
+    
 }
