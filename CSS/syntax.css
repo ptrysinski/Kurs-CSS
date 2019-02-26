@@ -2,6 +2,10 @@ a:hover {
     color: red;
 }
 
-#main-content:hover {
-    background-color: blueviolet;
+a:active {
+    color: orange;
+}
+
+a:visited {
+    color: purple;
 }
