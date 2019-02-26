@@ -1,4 +1,7 @@
-article:nth-of-type(odd) {
-    background: grey;
+article.featured-content{
+    background: red;
 }
 
+div.featured-content{
+    background: blue;
+}
