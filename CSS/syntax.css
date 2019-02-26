@@ -1,9 +1,13 @@
 article{
-    font-size: 16px;
+    font-size: 30px;
 }
 article h2{
     font-size: 3em;
 }
 article p{
     font-size: 50%;
+}
+
+article h2, article p{
+    font-family: Arial, Helvetica, sans-serif;
 }
