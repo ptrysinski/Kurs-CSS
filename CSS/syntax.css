@@ -1,3 +1,14 @@
-#main-content > p{
-    color: red;
+span[class~="deck"] {
+    color: purple;
+}
+
+div[id] {
+    background-color: grey;
+}
+
+a[href$="pdf"] {
+    color: green;
+}
+a[href^="http"] {
+    color: brown;
 }
